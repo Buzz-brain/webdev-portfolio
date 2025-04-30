@@ -60,7 +60,7 @@ const HeroSection = () => {
           <div className="relative opacity-0 transform translate-y-10 transition-all duration-1000 delay-500 animate-none">
             <div className="relative z-10 bg-white dark:bg-gray-800 rounded-lg shadow-xl overflow-hidden p-1 border-8 border-white dark:border-gray-800 transform rotate-3 hover:rotate-0 transition-transform duration-500">
               <img 
-                src="https://res.cloudinary.com/df2q6gyuq/image/upload/v1745987418/ekwe_uuoxyy.jpg" 
+                src="https://res.cloudinary.com/df2q6gyuq/image/upload/v1745987912/ekwemainea_ymlzr2.jpg" 
                 alt="Professional Portrait" 
                 className="w-full h-auto rounded"
               />
