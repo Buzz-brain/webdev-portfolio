@@ -10,7 +10,7 @@ import Footer from './components/Footer';
 function App() {
   useEffect(() => {
     // Update page title
-    document.title = 'OBUKWE EBUBECHI | Web Developer & Graphic Designer';
+    document.title = 'EKWE SUNDAY EMMANUEL | Web Developer & UI/UX Graphic Designer';
     
     // Add animation classes to document
     const style = document.createElement('style');
